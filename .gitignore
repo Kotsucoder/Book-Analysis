@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+# Book is excluded from repo for copyright reasons.
+miracle_in_the_andes.txt
